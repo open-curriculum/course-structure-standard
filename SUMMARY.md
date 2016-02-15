@@ -23,6 +23,6 @@
      * Attached Media
    * Discussion
    * Assessment
-      * Rubric
-      * Feedback
+     * Rubric
+     * Feedback
 * License
