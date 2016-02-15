@@ -10,19 +10,19 @@ Academic courses in K-12 and higher education, alike, are composed of similar pi
 ### Table of Contents
 | Section | Title |
 | --- | --- |
-| 1 | [Introduction](#1--introduction) |
-| 1.1 | [Purpose](#1-1-purpose) |
-| 1.2 | [Contributors](#1-2-contributors) |
-| 1.3 | [Requirements](#1-3-requirements) |
-| 1.4 | [Terminology](#1-4-terminology) |
-| 2 | [Syllabus](#2--syllabus)
-| 2.1 | [Composition](#2-1-composition) |
-| 2.1.2 | [Required Components](#2-1-2-required-components)
-| 2.1.3 | [Optional Components](#2-1-3-optional-components)
-| 2.2 | [Course Outline](#2-2-course-outline) |
-| 2.2.1 | [Pedagogical Format](#2-2-1-pedagogical-format)
-| 2.3 | [Formats](#2-3-formats) |
-| 3 | [Learning Components](#3--learning-components) |
+| 1 | [Introduction](#1-introduction) |
+| 1.1 | [Purpose](#11-purpose) |
+| 1.2 | [Contributors](#12-contributors) |
+| 1.3 | [Requirements](#13-requirements) |
+| 1.4 | [Terminology](#14-terminology) |
+| 2 | [Syllabus](#2-syllabus)
+| 2.1 | [Composition](#21-composition) |
+| 2.1.2 | [Required Components](#212-required-components)
+| 2.1.3 | [Optional Components](#213-optional-components)
+| 2.2 | [Course Outline](#22-course-outline) |
+| 2.2.1 | [Pedagogical Format](#221-pedagogical-format)
+| 2.3 | [Formats](#23-formats) |
+| 3 | [Learning Components](#3-learning-components) |
 
 
 ## 1. Introduction
