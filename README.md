@@ -19,3 +19,4 @@ Academic courses in K-12 and higher education, alike, are composed of similar pi
 - Katrina Wehr, Instructional Designer, Smeal College of Business, The Pennsylvania State University
 
 *Upon contributing to this document, please add your name and credentials to this list in the proper order*
+
