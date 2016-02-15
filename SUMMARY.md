@@ -6,5 +6,5 @@
    * [Requirements](Overview/requirements.md)
    * [Terminology](Overview/terminology.md)
 * [Syllabus](Syllabus/README.md)
-* [Learning Components](Learning Components/readme.md)
+* [Learning Components](Learning Components/README.md)
 
