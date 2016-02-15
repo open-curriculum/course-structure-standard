@@ -36,7 +36,7 @@ An event describes an instance in which students and/or instructors engage learn
 
 # Heutagogical
 
-Heutagogical refers to problem seeking learning where self-directed learners are autonomous and instructors develop learner's capabilities in creative problem solving, self-effacacy, and collaboration.
+Heutagogical refers to problem seeking learning where self-directed learners are autonomous and instructors develop learner's capabilities in creative problem solving, self-efficacy, and collaboration.
 
 # Lab
 
