@@ -17,3 +17,5 @@ Academic courses in K-12 and higher education, alike, are composed of similar pi
 - Alex Boyce, Programmer/Analyst, Smeal College of Business, The Pennsylvania State University
 - Michael Collins, Assistant Professor, School of Visual Arts, The Pennsylvania State University
 - Katrina Wehr, Instructional Designer, Smeal College of Business, The Pennsylvania State University
+
+* Upon contribution to this document, please add your name to the list of contributors in the correct order.
