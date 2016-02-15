@@ -46,9 +46,11 @@ An outline of the the anatomy of a common course structure to define an open sta
 Andragogy referes to learning where the instructor enables and facilitates learner confidence for self-directed learning by creating an open and collaborative environment.
 
 **Assessment**
+
 A method of determining a student's capabilities.
 
 **Assignment**
+
 Learning task or skill practice. Assigned to students to develop and demonstrate mastery.
 
 **Citation**
@@ -59,6 +61,7 @@ Learning task or skill practice. Assigned to students to develop and demonstrate
 
 **Content Outline**
 
+**Deliverables**
 
 **Demonstration**
 
@@ -67,6 +70,7 @@ Learning task or skill practice. Assigned to students to develop and demonstrate
 
 
 **Event**
+
 An event describes an instance in which students and/or instructors engage learning at a specific time and date. A date applied to any course component suggests that it is also an event. In some instances, events provide **__in-time information__** as part of the supporting material.
 
 **Exam Review**
@@ -81,6 +85,7 @@ An event describes an instance in which students and/or instructors engage learn
 **Guest Lecture**
 
 **Heutagogical**
+
 Heutagogical refers to problem seeking learning where self-directed learners are autonomous and instructors develop learner's capabilities in creative problem solving, self-effacacy, and collaboration.
 
 **Lab**
@@ -90,12 +95,15 @@ Heutagogical refers to problem seeking learning where self-directed learners are
 
 
 **Learning Component**
+
 A learning component can be a unique object that supports one aspect of learning and can be comprised of a collection of other learning components.
 
 **Learning Module**
+
 A learning module is a pedagogical component that organizes other components to faciliate learning and mastery of subject matter. (Often referred to as a **Unit**)
 
 **Learning Pathway**
+
 A sequence of learning modules or lessons.
 
 **Lesson**
@@ -111,6 +119,7 @@ A sequence of learning modules or lessons.
 
 
 **Pedagogy**
+
 Pedagogy refers to an instructor-designed method in which subject matter is taught and is assumed to be the expert in the subject matter. 
 
 **Reception**
@@ -133,13 +142,14 @@ Pedagogy refers to an instructor-designed method in which subject matter is taug
 
 
 **Syllabus**
+
 An outline of the subjects in a course of study or teaching. https://en.wikipedia.org/wiki/Syllabus
 
 **Topic**
 
 
 **Unit**
-*See **Learning Module***
+_See **Learning Module**_
 
 **Workshop**
 
