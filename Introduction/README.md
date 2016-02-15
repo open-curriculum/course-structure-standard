@@ -1,5 +1,5 @@
 # 1. Introduction
 
-* [1.1 Purpose](Introduction/purpose.md)
-* [1.2 Requirements](Introduction/requirements.md)
-* [1.3 Terminology](Introduction/terminology.md)
+* [1.1 Purpose](purpose.md)
+* [1.2 Requirements](requirements.md)
+* [1.3 Terminology](terminology.md)
