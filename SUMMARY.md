@@ -1,8 +1,8 @@
 # Table of Contents
 
-* [Overview](overview/README.md)
-    - [Purpose](overview/purpose.md)
-    - [Requirements](overview/requirements.md)
-    - [Terminology](overview/terminology.md)
-* [Syllabus](syllabus/README.md)
-* [Learning Components](learning-components/README.md)
+* [Overview](Overview/README.md)
+    - [Purpose](Overview/purpose.md)
+    - [Requirements](Overview/requirements.md)
+    - [Terminology](Overview/terminology.md)
+* [Syllabus](Syllabus/README.md)
+* [Learning Components](Learning-Components/README.md)
