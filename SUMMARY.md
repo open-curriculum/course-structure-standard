@@ -1,4 +1,4 @@
-# Summary
+# Table of Contents
 
 * [Introduction](README.md)
 * [Overview](Overview/README.md)
@@ -6,8 +6,15 @@
    * [Requirements](Overview/requirements.md)
    * [Terminology](Overview/terminology.md)
 * [Syllabus](Syllabus/README.md)
+   * Contact Information
+   * Policies
+     * Required
+     * Instructor
+   * Course Outline
+   * Goals and Outcomes
+   * Schedule
 * [Learning Components](Learning Components/README.md)
-   * [Learning Pathway](Learning Components/learning_pathway.md)
+   * Learning Pathway
    * Learning Module/Unit
    * Learning Outcomes
    * Event
@@ -16,14 +23,13 @@
    * Skill
    * Topic
    * Assignment
-       * Types
-       * Submission
-           * Format
-           * Medium
-           * Attached Media
+     * Types
+     * Submission
+       * Format
+       * Medium
+       * Attached Media
    * Discussion
    * Assessment
-       * Rubric
-       * Feedback
+     * Rubric
+     * Feedback
 * License
-
