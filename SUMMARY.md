@@ -8,7 +8,7 @@
 * [Syllabus](Syllabus/README.md)
 * [Learning Components](Learning Components/README.md)
    * Learning Pathway
-   * Learning Module (Unit)
+   * Learning Module/Unit
    * Learning Outcomes
    * Event
    * Lesson
