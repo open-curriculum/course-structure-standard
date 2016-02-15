@@ -1,0 +1,3 @@
+# Terminology
+
+{% include "GLOSSARY.md" %}
