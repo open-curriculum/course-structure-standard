@@ -130,7 +130,10 @@ Pedagogy refers to an instructor-designed method in which subject matter is taug
 
 **Rubric**
 
+A form of **Assessment** in which a student's performance is segmented into categories and evaluated uniformly. Rubrics can be *generic*, *task specific* or a *hybrid* of the two, sometimes referred to as a *combined* rubric.
+
 **Semester**
+
 
 **Seminar**
 
