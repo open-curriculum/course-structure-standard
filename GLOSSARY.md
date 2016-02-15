@@ -46,6 +46,10 @@ Heutagogical refers to problem seeking learning where self-directed learners are
 
 A learning component can be a unique object that supports one aspect of learning and can be comprised of a collection of other learning components.
 
+# Learning Components
+
+A collection of learning components that serve to meet a learning outcome.
+
 # Learning Module
 
 A learning module is a pedagogical component that organizes other components to facilitate learning and mastery of subject matter. (Often referred to as a Unit)
