@@ -24,10 +24,10 @@
    * Topic
    * Assignment
      * Types
-     * Submission
-       * Format
-       * Medium
-       * Attached Media
+   * Submission
+     * Format
+     * Medium
+     * Attached Media
    * Discussion
    * Assessment
      * Rubric
