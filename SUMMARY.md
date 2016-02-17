@@ -23,8 +23,13 @@
    * Media
    * Skill
    * Topic
+   * Task
    * Assignment
-     * Types
+      * Types
+        * Activity
+        * Exercise
+        * Project
+   * Quiz
    * Submission
      * Format
      * Medium
