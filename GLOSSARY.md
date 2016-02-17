@@ -16,7 +16,11 @@ Learning task or skill practice. Assigned to students to develop and demonstrate
 
 # Content Outline
 
+A generalized order and hierarchy of topics to be discussed within a body of content.
+
 # Deliverables
+
+Either physical or digital, deliverables are resource materials for the students to use when learning a topic.
 
 # Demonstration
 
@@ -85,6 +89,8 @@ A form of Assessment in which a student's performance is segmented into categori
 # Studio
 
 # Submission
+
+A student's response to an assignment which allows the instructor to assess the student's learning.
 
 # Syllabus
 
