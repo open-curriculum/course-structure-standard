@@ -13,6 +13,7 @@
    * Course Outline
    * Goals and Outcomes
    * Schedule
+   * Deliverables
 * [Learning Components](Learning Components/README.md)
    * Learning Pathway
    * Learning Module/Unit
