@@ -25,10 +25,10 @@
    * Topic
    * Task
    * Assignment
-      * Types
-        * Activity
-        * Exercise
-        * Project
+     * Types
+       * Activity
+       * Exercise
+       * Project
    * Quiz
    * Submission
      * Format
