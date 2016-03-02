@@ -14,27 +14,27 @@
    * Goals and Outcomes
    * Schedule
    * Deliverables
-* [Learning Components](Learning Components/README.md)
+* [Learning Components](LearningComponents/README.md)
    * [Learning Pathway](LearningComponents/learning_pathway.md)
    * Learning Module/Unit
-   * [Learning Outcomes](Learning Components/learning_outcomes.md)
-   * [Event](Learning Components/event.md)
-   * [Lesson](Learning Components/lesson.md)
-   * [Media](Learning Components/media.md)
-   * [Skill](Learning Components/skill.md)
-   * [Topic](Learning Components/topic.md)
-   * [Task](Learning Components/task.md)
-   * [Assignment](Learning Components/assignment.md)
-       * [Types](Learning Components/types.md)
+   * [Learning Outcomes](LearningComponents/learning_outcomes.md)
+   * [Event](LearningComponents/event.md)
+   * [Lesson](LearningComponents/lesson.md)
+   * [Media](LearningComponents/media.md)
+   * [Skill](LearningComponents/skill.md)
+   * [Topic](LearningComponents/topic.md)
+   * [Task](LearningComponents/task.md)
+   * [Assignment](LearningComponents/assignment.md)
+       * [Types](LearningComponents/types.md)
            * Activity
            * Exercise
            * Project
-   * [Quiz](Learning Components/quiz.md)
-   * [Submission](Learning Components/submission.md)
+   * [Quiz](LearningComponents/quiz.md)
+   * [Submission](LearningComponents/submission.md)
        * Format
        * Medium
        * Attached Media
-   * [Discussion](Learning Components/discussion.md)
+   * [Discussion](LearningComponents/discussion.md)
    * Assessment
        * Rubric
        * Feedback
