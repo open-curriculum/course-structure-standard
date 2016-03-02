@@ -24,7 +24,7 @@
    * [Skill](Learning Components/skill.md)
    * [Topic](Learning Components/topic.md)
    * [Task](Learning Components/task.md)
-   * Assignment
+   * [Assignment](Learning Components/assignment.md)
        * Types
            * Activity
            * Exercise
