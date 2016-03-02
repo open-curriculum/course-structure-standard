@@ -17,7 +17,7 @@
 * [Learning Components](Learning Components/README.md)
    * Learning Pathway
    * Learning Module/Unit
-   * Learning Outcomes
+   * [Learning Outcomes](Learning Components/learning_outcomes.md)
    * [Event](Learning Components/event.md)
    * [Lesson](Learning Components/lesson.md)
    * [Media](Learning Components/media.md)
