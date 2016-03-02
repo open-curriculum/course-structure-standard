@@ -29,7 +29,7 @@
            * Activity
            * Exercise
            * Project
-   * Quiz
+   * [Quiz](Learning Components/quiz.md)
    * Submission
        * Format
        * Medium
