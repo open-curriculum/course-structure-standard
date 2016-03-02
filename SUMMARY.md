@@ -30,7 +30,7 @@
            * Exercise
            * Project
    * [Quiz](Learning Components/quiz.md)
-   * Submission
+   * [Submission](Learning Components/submission.md)
        * Format
        * Medium
        * Attached Media
