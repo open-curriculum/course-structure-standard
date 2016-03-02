@@ -18,7 +18,7 @@
    * Learning Pathway
    * Learning Module/Unit
    * Learning Outcomes
-   * Event
+   * [Event](Learning Components/event.md)
    * [Lesson](Learning Components/lesson.md)
    * [Media](Learning Components/media.md)
    * [Skill](Learning Components/skill.md)
