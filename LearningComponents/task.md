@@ -30,7 +30,8 @@ Tasks can include:
 
 
 ## Example Usage
-**Task 1:** A student must practice multiplication with a multiplication worksheet.
+**Task 1 (Assignment):** *A student practices multiplication with a multiplication activity worksheet.* This worksheet is not assessed, but provides a structured way for a student to learn through repetition.
 
-**Task 2:** A student must take a quiz demonstrating that they learned the skill of multiplication.
+**Task 2 (Assessment):** *A student must take a multiplication quiz.* This enables the student to demonstrate that they learned the skill of multiplication in a way that an instructor is able to perceive.
 
+**Task 3 (Tangential):** Attending a lecture by a prominent expert in a relevant field. While this task may contribute to learning, an instructor may not be able to directly assess if any learning happened, nor could they predict what learning will happen. In this case, the onus of gleaning relevance is up to the learner.
