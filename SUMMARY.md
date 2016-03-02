@@ -20,7 +20,7 @@
    * Learning Outcomes
    * Event
    * Lesson
-   * Media
+   * [Media](Learning Components/media.md)
    * [Skill](Learning Components/skill.md)
    * Topic
    * Task
