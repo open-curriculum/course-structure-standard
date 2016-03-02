@@ -25,7 +25,7 @@
    * [Topic](Learning Components/topic.md)
    * [Task](Learning Components/task.md)
    * [Assignment](Learning Components/assignment.md)
-       * Types
+       * [Types](Learning Components/types.md)
            * Activity
            * Exercise
            * Project
