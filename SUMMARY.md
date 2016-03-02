@@ -19,7 +19,7 @@
    * Learning Module/Unit
    * Learning Outcomes
    * Event
-   * Lesson
+   * [Lesson](Learning Components/lesson.md)
    * [Media](Learning Components/media.md)
    * [Skill](Learning Components/skill.md)
    * Topic
