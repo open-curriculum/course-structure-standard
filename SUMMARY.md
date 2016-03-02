@@ -1,4 +1,4 @@
-# Table of Contents
+# Summary
 
 * [Introduction](README.md)
 * [Overview](Overview/README.md)
@@ -8,8 +8,8 @@
 * [Syllabus](Syllabus/README.md)
    * Contact Information
    * Policies
-     * Required
-     * Instructor
+       * Required
+       * Instructor
    * Course Outline
    * Goals and Outcomes
    * Schedule
@@ -21,21 +21,22 @@
    * Event
    * Lesson
    * Media
-   * Skill
+   * [Skill](Learning Components/skill.md)
    * Topic
    * Task
    * Assignment
-     * Types
-       * Activity
-       * Exercise
-       * Project
+       * Types
+           * Activity
+           * Exercise
+           * Project
    * Quiz
    * Submission
-     * Format
-     * Medium
-     * Attached Media
+       * Format
+       * Medium
+       * Attached Media
    * Discussion
    * Assessment
-     * Rubric
-     * Feedback
+       * Rubric
+       * Feedback
 * License
+
