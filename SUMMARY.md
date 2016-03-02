@@ -23,7 +23,7 @@
    * [Media](Learning Components/media.md)
    * [Skill](Learning Components/skill.md)
    * [Topic](Learning Components/topic.md)
-   * Task
+   * [Task](Learning Components/task.md)
    * Assignment
        * Types
            * Activity
