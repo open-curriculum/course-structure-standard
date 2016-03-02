@@ -15,7 +15,7 @@
    * Schedule
    * Deliverables
 * [Learning Components](Learning Components/README.md)
-   * Learning Pathway
+   * [Learning Pathway](LearningComponents/learning_pathway.md)
    * Learning Module/Unit
    * [Learning Outcomes](Learning Components/learning_outcomes.md)
    * [Event](Learning Components/event.md)
