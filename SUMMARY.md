@@ -38,5 +38,6 @@
    * Assessment
        * Rubric
        * Feedback
+   * Collection
 * License
 
