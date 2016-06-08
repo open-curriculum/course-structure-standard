@@ -39,5 +39,6 @@
        * Rubric
        * Feedback
    * Collection
+   * Sequence
 * License
 
