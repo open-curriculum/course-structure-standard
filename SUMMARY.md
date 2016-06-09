@@ -16,7 +16,7 @@
    * Deliverables
 * [Learning Components](LearningComponents/README.md)
    * [Learning Pathway](LearningComponents/learning_pathway.md)
-   * Learning Module/Unit
+   * [Learning Module/Unit](LearningComponents/Module.md)
    * [Learning Outcomes](LearningComponents/learning_outcomes.md)
    * [Event](LearningComponents/event.md)
    * [Lesson](LearningComponents/lesson.md)
