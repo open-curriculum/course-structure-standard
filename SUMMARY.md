@@ -21,7 +21,7 @@
    * [Event](Definitions/event.md)
    * [Lesson](Definitions/lesson.md)
    * [Media](Definitions/media.md)
-   * [Skill](LearningComponents/skill.md)
+   * [Skill](Definitions/skill.md)
    * [Topic](Definitions/topic.md)
    * [Task](Definitions/task.md)
    * [Assignment](LearningComponents/assignment.md)
