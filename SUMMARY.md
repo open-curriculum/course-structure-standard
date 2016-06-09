@@ -15,7 +15,7 @@
    * Schedule
    * Deliverables
 * [OER Schema Definitions](LearningComponents/README.md)
-   * [Learning Pathway](LearningComponents/learning_pathway.md)
+   * [Learning Pathway](Definitions/learning_pathway.md)
    * [Module](LearningComponents/Module.md)
    * [Learning Outcomes](LearningComponents/learning_outcomes.md)
    * [Event](LearningComponents/event.md)
