@@ -16,7 +16,7 @@
    * Deliverables
 * [OER Schema Definitions](LearningComponents/README.md)
    * [Learning Pathway](Definitions/learning_pathway.md)
-   * [Module](LearningComponents/Module.md)
+   * [Module](Definitions/Module.md)
    * [Learning Outcomes](LearningComponents/learning_outcomes.md)
    * [Event](LearningComponents/event.md)
    * [Lesson](LearningComponents/lesson.md)
