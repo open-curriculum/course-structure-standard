@@ -1,2 +1,3 @@
 # Lesson
 
+See learning component.
