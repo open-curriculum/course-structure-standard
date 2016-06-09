@@ -1,2 +1,1 @@
-# Learning Components
-
+# OER Schema Definitions
