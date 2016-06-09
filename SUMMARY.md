@@ -17,7 +17,7 @@
 * [OER Schema Definitions](LearningComponents/README.md)
    * [Learning Pathway](Definitions/learning_pathway.md)
    * [Module](Definitions/Module.md)
-   * [Learning Outcomes](LearningComponents/learning_outcomes.md)
+   * [Learning Outcomes](Definitions/learning_outcomes.md)
    * [Event](LearningComponents/event.md)
    * [Lesson](LearningComponents/lesson.md)
    * [Media](LearningComponents/media.md)
