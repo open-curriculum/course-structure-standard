@@ -20,7 +20,7 @@
    * [Learning Outcomes](Definitions/learning_outcomes.md)
    * [Event](Definitions/event.md)
    * [Lesson](Definitions/lesson.md)
-   * [Media](LearningComponents/media.md)
+   * [Media](Definitions/media.md)
    * [Skill](LearningComponents/skill.md)
    * [Topic](LearningComponents/topic.md)
    * [Task](LearningComponents/task.md)
