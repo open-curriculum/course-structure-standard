@@ -14,7 +14,7 @@
    * Goals and Outcomes
    * Schedule
    * Deliverables
-* [Learning Components](LearningComponents/README.md)
+* [OER Schema Definitions](LearningComponents/README.md)
    * [Learning Pathway](LearningComponents/learning_pathway.md)
    * [Module](LearningComponents/Module.md)
    * [Learning Outcomes](LearningComponents/learning_outcomes.md)
