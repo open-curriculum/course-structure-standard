@@ -34,7 +34,7 @@
        * Format
        * Medium
        * Attached Media
-   * [Discussion](LearningComponents/discussion.md)
+   * [Discussion](Definitions/discussion.md)
    * Assessment
        * Rubric
        * Feedback
