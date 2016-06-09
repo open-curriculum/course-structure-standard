@@ -18,7 +18,7 @@
    * [Learning Pathway](Definitions/learning_pathway.md)
    * [Module](Definitions/Module.md)
    * [Learning Outcomes](Definitions/learning_outcomes.md)
-   * [Event](LearningComponents/event.md)
+   * [Event](Definitions/event.md)
    * [Lesson](LearningComponents/lesson.md)
    * [Media](LearningComponents/media.md)
    * [Skill](LearningComponents/skill.md)
