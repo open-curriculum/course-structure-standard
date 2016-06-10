@@ -40,5 +40,6 @@
        * Feedback
    * Collection
    * Sequence
+   * Learning component
 * License
 
