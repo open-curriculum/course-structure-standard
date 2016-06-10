@@ -40,6 +40,6 @@
        * Feedback
    * Collection
    * Sequence
-   * Learning component
+   * [Learning component](Definitions/learning_component.md)
 * License
 
