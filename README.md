@@ -4,7 +4,7 @@ Version: 2016-02-15
 
 ## Status of this Memo
 
-This document identifies and defines standard components used when constructing courses. Contribution to this document is encouraged and distribution of this document is unlimited.
+This document identifies and defines standard components used when constructing courses and learning materials as open education resources (OER). Contribution to this document is encouraged and distribution of this document is unlimited.
 
 ## Abstract
 
