@@ -4,7 +4,7 @@ Version: 2016-02-15
 
 ## Status of this Memo
 
-This document defines what standard components make up a course and how they are defined and utilized per an open community of educators. Contribution to this document is encouraged and distribution of this document is unlimited.
+This document identifies and defines standard components used when constructing courses. Contribution to this document is encouraged and distribution of this document is unlimited.
 
 ## Abstract
 
